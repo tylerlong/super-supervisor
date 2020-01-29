@@ -2,4 +2,4 @@
 
 This is a demo for [RingCentral Call Supervision](https://developers.ringcentral.com/guide/voice/supervision) API.
 
-This demo focus on scalability: one super supervisor monitor hundreds of call agents.
+This demo focuses on scalability: one super supervisor monitor hundreds of call agents.
