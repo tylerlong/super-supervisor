@@ -2,7 +2,13 @@ import React from 'react'
 
 class ClientInfo extends React.Component {
   render () {
-    return <div>Client Info</div>
+    return (
+      <div>
+      Server: <select><option>Sandbox</option><option>Production</option></select>
+      Client ID: <input />
+      Client Secret: <input type='password' />
+      </div>
+    )
   }
 }
 
